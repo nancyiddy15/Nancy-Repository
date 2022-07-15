@@ -1,1 +1,2 @@
-# Nancy-Repository
+# todo
+Todo app for coding beginners.
